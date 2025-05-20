@@ -8,3 +8,12 @@ This project presents a detailed Power BI dashboard analyzing player performance
 - Ground-wise and player-wise performance
 - Dynamic filters using DAX
 - Visuals: Bar charts, Scatter plots.
+
+## 🛠 Tools & Tech
+- Power BI (.pbix)
+- DAX for custom measures
+- Data Modeling
+- Data Transformation in Power Query
+
+## 🔎 Screenshot
+![image](https://github.com/user-attachments/assets/546404a9-beb1-42e7-8e13-3460246df2f5)
